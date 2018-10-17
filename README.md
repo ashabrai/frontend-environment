@@ -1,7 +1,31 @@
-![cf](http://i.imgur.com/7v5ASc8.png) 26 - Frontend Tooling & React
+![cf](http://i.imgur.com/7v5ASc8.png) 27- Form Props
 ===
 
-## Description of Lab
+[cf](http://i.imgur.com/7v5ASc8.png) Basic Auth And Sign in 
+====
 
-Using React, install npm install cowsay-browser. The goal for the lab is to create a cow, and when the button is clicked
-should generate random words on the cow. 
+Creating a basic authorization middleware, signup and sign in routes. 
+
+## Getting Started
+   * Instructions of what has been done will allow you to get the code running on your 
+   local machine. 
+
+    
+#### Installing 
+   * Clone the repo into your local machine -git clone -directory name here- 
+   * Next install project files - npm install 
+   * You will need install superagent - npm install superagent
+   * Install - npm i -D prop-types
+   * Install -npm i -D @babel/polyfill
+   
+#### Testing  
+No testing atm.
+
+####  Authors
+* Brai Frauen 
+
+#### License 
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+#### Version
+* 1.0.1

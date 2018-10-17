@@ -6,5 +6,4 @@ import '../style/main.scss';
 
 const rootNode = document.createElement('div');
 document.body.appendChild(rootNode);
-//! Vinicio - this will be what starts the entire application
-ReactDom.render(<App/>, rootNode);
+ReactDom.render(<App />, rootNode);
